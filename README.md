@@ -1,5 +1,7 @@
 # Hey👋, I'm Athira 
-Junior Data Analyst passionate about turning data into meaningful insights. I work with Python, SQL, and statistics to analyze datasets, identify patterns, and build data-driven solutions.
+Junior Data Analyst trying to find stories hidden in data that other people miss. I work with Python, SQL, and statistics to analyze datasets, identify patterns, and build data-driven solutions.
+
+I can explain complex findings to non-technical stakeholders.
 
 Currently learning Andrew Ng's Machine Learning Speciality and improving my data analysis skills through real-world projects.
 
@@ -18,7 +20,8 @@ Currently learning Andrew Ng's Machine Learning Speciality and improving my data
 
 ---
 
-## 📫 Let's Talk
+
+## 📫 Let's Connect
 
 **Looking for:** Data Analyst opportunities | 
 **Reach me:** [athirarravi28@gmail.com](mailto:athirarravi28@gmail.com) 
