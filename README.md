@@ -1,12 +1,7 @@
 # Hey👋, I'm Athira 
-
-Aspiring Data Analyst
-
-- Python · SQL (MySQL) · Power BI 
-
-- Built end-to-end projects, web scraping, data pipelines, SQL window functions, and dashboards.
-
-- Currently working through Andrew Ng's ML Specialisation.
+* Python · SQL (MySQL) · Power BI 
+* Built end-to-end projects, web scraping, data pipelines, SQL window functions, and dashboards.
+* Currently working through Andrew Ng's ML Specialisation.
 - CS graduate · Coimbatore
 
 ---
@@ -25,9 +20,8 @@ Aspiring Data Analyst
 ---
 
 
-## 📫 Let's Connect
-
-**Looking for:** Data Analyst opportunities | 
+## Let's Connect
+ 
 **Reach me:** [athirarravi28@gmail.com](mailto:athirarravi28@gmail.com) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=athiraa12&color=brightgreen)
