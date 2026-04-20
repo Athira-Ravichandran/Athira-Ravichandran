@@ -2,8 +2,6 @@
 * Python · SQL · SAP HANA CLOUD · SAP BAS · Power BI
 * Built end-to-end projects, web scraping, data pipelines, SQL window functions, and dashboards.
 * Currently working through Andrew Ng's ML Specialisation.
-- CS graduate · Coimbatore
-
 ---
 
 ## Tech Stack
